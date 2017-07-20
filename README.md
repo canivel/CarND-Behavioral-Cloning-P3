@@ -76,7 +76,7 @@ The following additions were made.
 |Convolution 		 | Filter 64, Kernel (3 x 3), Stride (2 x 2) , "relu"|
 |Convolution 		 | Filter 64, Kernel (3 x 3), Stride (2 x 2) , "relu"|
 |Dropout 		 	 | 0.5					 |	
-|Flatten 		 	 | 
+|Flatten 		 	 | 1164
 |Dense  		 	 | 100, "relu"			 | 
 |Dense  		 	 | 50, "relu"			 |
 |Dense  		 	 | 10, "relu"			 |
